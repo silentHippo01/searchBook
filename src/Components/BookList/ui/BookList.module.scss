@@ -1,0 +1,16 @@
+.bookList{
+    display: flex;
+    flex-direction: column;
+    max-width: 1800px;
+    flex-wrap: wrap;
+    margin: 50px 0;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.catalog{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
